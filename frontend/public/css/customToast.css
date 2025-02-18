@@ -1,0 +1,14 @@
+.custom-toast {
+  background-color: #ffffff !important;
+  border: 1px solid #ccc;
+}
+
+.custom-toast-body {
+  color: #000000 !important;
+  font-size: 1.2em;
+}
+
+.Toastify__progress-bar {
+  background: #000000 !important;
+}
+  
