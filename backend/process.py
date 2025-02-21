@@ -1,21 +1,11 @@
-# Importing Libraries and Google AI API Key
-# import google
 import google.generativeai as genai
-# from google.generativeai import caching
 from dotenv import load_dotenv
-# import pathlib
 import os
 import time
-# import datetime
 import re
 import json
 import cv2
 
-# !pip install docx
-# !pip install --upgrade python-docx
-
-# import pandas as pd
-# import matplotlib.pyplot as plt
 from docx import Document
 from docx.shared import Pt, RGBColor, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
